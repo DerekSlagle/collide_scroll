@@ -1,0 +1,14 @@
+150.0 160.0
+60.0
+30
+0 255 0
+255 0 0
+
+7
+1      Tanks & Pipes
+2      state tester
+3      Blasting
+4      Intersections
+5      Platformer
+6      Shots and Targets
+7      Conways Game of Life

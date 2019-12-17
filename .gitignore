@@ -1,0 +1,9 @@
+*.dll
+*.o
+bin/**
+obj/**
+*.cbp
+*.layout
+*.depend
+*.exe
+*.avi

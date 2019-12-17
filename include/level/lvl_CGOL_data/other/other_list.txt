@@ -1,0 +1,5 @@
+diehard
+triCom
+rPentomino
+acorn
+rake

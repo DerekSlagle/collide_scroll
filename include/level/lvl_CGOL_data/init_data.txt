@@ -1,0 +1,16 @@
+15 12 8
+60 90
+
+osc_beacon
+
+osc_beacon
+osc_blinker
+osc_toad
+osc_triCom
+ship_glider
+ship_LWSS
+Gosper_gun
+still_beehive
+rPentomino
+diehard
+acorn

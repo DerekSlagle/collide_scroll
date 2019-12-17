@@ -1,0 +1,8 @@
+include/Leg_types/paths/fig8.txt
+3
+100 2
+350 4
+600 5
+
+include/Leg_types/paths/ovalc.txt
+4 0 350 700 1050
