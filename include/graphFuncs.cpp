@@ -81,24 +81,6 @@ void polyNomial::init( std::istream& is )
     graphFuncs::init( is );
 
     Nterms = C.size();
- /*   if( vtxVec.size() < 2 ) return;// min for a LinesStrip
-
-    if( xLt < xRt && x0 >= xLt && x0 <= xRt )// all should be good
-    {
-   //     float dX = (float)( vtxVec.size() - 1 )*((xRt-xLt)/dxVtx);
-        dxVtx = ((xRt-xLt))/(float)( vtxVec.size() - 1 );
-        float x = xLt;
-        float y = 0.0f, yp;// as ref params in f()
-
-        for( auto& vtx : vtxVec )
-        {
-            vtx.position.x = (x - xLt)*sclX + pos.x;
-            f( y, yp, x );
-        //    vtx.position.y = pos.y;
-            vtx.position.y = pos.y + y*sclY;
-            x += dxVtx;
-        }
-    }   */
 }
 
 void polyNomial::f( float& y, float& yp, float x )
